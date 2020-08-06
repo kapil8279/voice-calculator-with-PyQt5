@@ -12,8 +12,8 @@ password -> kapil
 # You can change username name and password in UserData.txt file
 
 # For voice control acceptable query is like
-3+2-7\6*56 .....\n
-32+5-6+ .. .. - sin 40
+# 3+2-7\6*56 .....          
+# 32+5-6+ .. .. - sin 40
 
 
 # warning dont use sin,log,tan,cos,squae,root in middle of the query when u are using voice controll sytsem otherwise u can use it normally
