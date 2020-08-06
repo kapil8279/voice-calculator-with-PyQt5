@@ -1,10 +1,10 @@
 # voice-calculator-with-PyQt5
 # Required modules
 PyQt5
-pyttsx3
-SpeechRecognition
-PyAudio
-pywin32
+pyttsx3,
+SpeechRecognition,
+PyAudio,
+pywin32,
 if u are already installed ignore it
 # Username and Paswword is 
 username -> user
