@@ -1,4 +1,5 @@
 # voice-calculator-with-PyQt5
+# to run the program run MainApp.py 
 # Required modules
 PyQt5
 pyttsx3,
